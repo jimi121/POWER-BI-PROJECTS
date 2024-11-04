@@ -1,5 +1,5 @@
 # 📊 Daiz Bank Loan Portfolio Risk Assessment
-
+![](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/Loan%20risk.jpg)
 **Data Analytics and Risk Management Project | Power BI**
 
 **Project Objective**: This project leverages data analytics to assess, visualize, and mitigate risks within Daiz Bank's loan portfolio, enabling enhanced decision-making, financial resilience, and regulatory compliance. Developed using Power BI, this analysis delivers actionable insights to support strategic risk management and drive sustainable growth in a rapidly evolving market.
