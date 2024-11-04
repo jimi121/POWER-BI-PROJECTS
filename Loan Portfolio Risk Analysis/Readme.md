@@ -78,7 +78,7 @@ The Loan Overview dashboard provides a **high-level analysis** of Daiz Bank's lo
 
 ### Loan Status and Type
 
-![Loan Status and Type Dashboard](path/to/loan-status-image.png)
+![Loan Status and Type Dashboard](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/Loan%20Status%20Page.PNG)
 
 This dashboard page examines the **status and health** of the bank’s loan portfolio:
 
@@ -167,7 +167,7 @@ Feel free to reach out if you have any questions or feedback:
 
 - **Email:** olajimiadeleke4@gmail.com
 
-- **LinkedIn:** [Your LinkedIn Profile]()
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BTyeFCIhsTSGHh1LcxP8a4A%3D%3D)
 
 - **Portfolio:** [Your Portfolio Website]()
 
