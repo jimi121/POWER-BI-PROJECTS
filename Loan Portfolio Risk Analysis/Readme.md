@@ -145,7 +145,7 @@ To explore and utilize this Power BI project:
 
 > **Note**: This interactive dashboard is hosted on Power BI Service. You can view and interact with the dashboards in real-time to explore data insights dynamically.
 
-[![Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmZiYTQzNzktNTNiZi00MmY5LTkwNTgtNjBmNThhZjFlYjQ1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9) <!-- Replace with a GIF preview and link to the interactive dashboard -->
+[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmZiYTQzNzktNTNiZi00MmY5LTkwNTgtNjBmNThhZjFlYjQ1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9) <!-- Replace with a GIF preview and link to the interactive dashboard -->
 
 ---
 
