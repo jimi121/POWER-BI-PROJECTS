@@ -68,7 +68,7 @@ This data allows Daiz Bank to **segment borrowers by risk**, analyze trends in l
 
 ### Loan Overview
 
-![Loan Overview Dashboard](path/to/loan-overview-image.png)
+![Loan Overview Dashboard](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/Loan%20Overview%20Page.PNG)
 
 The Loan Overview dashboard provides a **high-level analysis** of Daiz Bank's loan portfolio, revealing trends in key areas:
 
@@ -165,7 +165,7 @@ Thank you for exploring this project. Feel free to reach out for any questions o
 # 📬 Contact
 Feel free to reach out if you have any questions or feedback:
 
-- **Email:** your.email@example.com
+- **Email:** olajimiadeleke4@gmail.com
 
 - **LinkedIn:** [Your LinkedIn Profile]()
 
