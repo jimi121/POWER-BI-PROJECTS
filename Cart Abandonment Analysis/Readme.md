@@ -30,6 +30,9 @@ This dataset, comprising 1,500 entries, forms the foundation for detailed analys
 - **Power BI**: Data visualization and interactive dashboards using DAX for calculated metrics and custom insights
 
 ## 🔍 Key Insights
+
+![](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Overview%20Page.PNG)  
+
 Analyzing the data revealed several important trends about MagicMade’s cart abandonment:
 
 - **📉 Abandonment Rate Comparison**: MagicMade’s abandonment rate is **22.2% lower than the industry average**, which is positive but shows room for improvement.
