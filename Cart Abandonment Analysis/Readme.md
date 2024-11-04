@@ -25,6 +25,8 @@ MagicMade’s data includes various fields critical to understanding user behavi
 
 This dataset, comprising 1,500 entries, forms the foundation for detailed analysis in Power BI using DAX (Data Analysis Expressions) to extract and transform data for advanced insights.
 
+Dataset link [here](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/abandonment_dataset.csv)
+
 ## 🛠️ Tech Stack
 - **SQL (PostgreSQL)**: Data extraction and manipulation
 - **Power BI**: Data visualization and interactive dashboards using DAX for calculated metrics and custom insights
