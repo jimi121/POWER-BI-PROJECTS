@@ -86,8 +86,6 @@ This dashboard page examines the **status and health** of the bank’s loan port
 - **Loan Status Overview**: Visualizes repayment status, including "Paid Off," "Defaulted," and "In Arrears," to highlight potential areas of concern.
 - **Credit Score Analysis**: Shows loan performance in relation to borrower credit scores, identifying creditworthiness and loan health.
 
-> **Embed a GIF here** if possible to show interactive elements like filters, highlighting dashboard usability and interactivity:
-
 ![Dashboard Walkthrough GIF](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/Video%20presentation.gif)
 
 ---
