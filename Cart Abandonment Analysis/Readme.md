@@ -29,6 +29,9 @@ This dataset, comprising 1,500 entries, forms the foundation for detailed analys
 - **SQL (PostgreSQL)**: Data extraction and manipulation
 - **Power BI**: Data visualization and interactive dashboards using DAX for calculated metrics and custom insights
 
+## Dashboard Walkthrough
+![Dashboard Walkthrough GIF](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Video%20presentation.gif)
+
 ## 🔍 Key Insights
 
 Analyzing the data revealed several important trends about MagicMade’s cart abandonment:
@@ -64,8 +67,6 @@ Based on these insights, here are the key strategies to reduce cart abandonment 
 
 6. **🚚 Address Shipping Costs**
    - Offering **free shipping** over a certain threshold or flat-rate shipping can reduce abandonment due to shipping fees and encourage higher order values.
-  
-![[Dashboard Walkthrough GIF](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Video%20presentation.gif)
 
 ## 🔮 Future Work
 To build on these findings and maximize impact, future work could include:
