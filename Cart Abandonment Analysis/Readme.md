@@ -31,7 +31,7 @@ This dataset, comprising 1,500 entries, forms the foundation for detailed analys
 
 ## 🔍 Key Insights
 
-![](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Overview%20Page.PNG)  
+![](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Overview%20Page.PNG)
 
 Analyzing the data revealed several important trends about MagicMade’s cart abandonment:
 
