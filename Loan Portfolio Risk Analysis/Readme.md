@@ -87,7 +87,7 @@ This dashboard page examines the **status and health** of the bank’s loan port
 
 > **Embed a GIF here** if possible to show interactive elements like filters, highlighting dashboard usability and interactivity:
 
-![Dashboard Walkthrough GIF](path/to/dashboard-walkthrough.gif)
+![Dashboard Walkthrough GIF](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/Video%20presentation.gif)
 
 ---
 
@@ -145,7 +145,7 @@ To explore and utilize this Power BI project:
 
 > **Note**: This interactive dashboard is hosted on Power BI Service. You can view and interact with the dashboards in real-time to explore data insights dynamically.
 
-[![Interactive Dashboard](path-to-gif-image.gif)](https://app.powerbi.com/view?r=link-to-dashboard) <!-- Replace with a GIF preview and link to the interactive dashboard -->
+[![Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmZiYTQzNzktNTNiZi00MmY5LTkwNTgtNjBmNThhZjFlYjQ1IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9) <!-- Replace with a GIF preview and link to the interactive dashboard -->
 
 ---
 
