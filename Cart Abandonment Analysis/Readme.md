@@ -1,7 +1,7 @@
 # 🛒 Shopping Cart Abandonment Analysis at MagicMade
-
+![https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Cart%20Abandonment%20Analysis/Cart%20Abandonment%20Analysis.jpg]()
 ## 📊 Project Overview
-This project addresses a key challenge in e-commerce: **shopping cart abandonment**. At MagicMade, high abandonment rates translate to lost revenue and possible customer dissatisfaction. Using data analytics and DAX in Power BI, this project uncovers why users abandon their carts and provides actionable strategies to enhance the shopping experience, increase conversions, and drive sales. [**View the Dashboard here**](#).
+This project addresses a key challenge in e-commerce: **shopping cart abandonment**. At MagicMade, high abandonment rates translate to lost revenue and possible customer dissatisfaction. Using data analytics and DAX in Power BI, this project uncovers why users abandon their carts and provides actionable strategies to enhance the shopping experience, increase conversions, and drive sales. [**View the Dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiYTIzODhiOGUtNzljMC00NDE3LTliNDUtYTJjN2ZiOWU5OGY0IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9).
 
 ## 🛍️ Business Problem
 MagicMade, like many online retailers, faces the issue of cart abandonment—when customers add items to their cart but leave without completing the purchase. Solving this problem is critical for MagicMade’s revenue and can also highlight areas where the shopping experience needs improvement. Addressing cart abandonment can help MagicMade:
