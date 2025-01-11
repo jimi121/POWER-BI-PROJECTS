@@ -1,5 +1,7 @@
 # 🏠 **Tenant Retention Optimization Dashboard**
 
+![](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Tenant%20Retention%20Optimization/Image/tenant%20image.jpg)
+
 An interactive **Power BI dashboard** designed to revolutionize tenant retention strategies for residential real estate management. This project leverages data analytics and visualization to tackle high tenant churn rates, enhance tenant satisfaction, and improve financial efficiency.
 
 ---
