@@ -13,7 +13,7 @@ HomeVibe Properties faced several challenges related to tenant retention, includ
 
 The **Tenant Retention Optimization Dashboard** delivers actionable insights to address these challenges and drive growth.  
 
-![image here]()
+![image here](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Tenant%20Retention%20Optimization/Image/Dashboard%20Image.PNG)
 
 📊 **[View the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZDQ2MTFjMWMtMWY4OS00MjNhLWFmMTMtYWJlZWY4M2Q3MGY2IiwidCI6IjYyMGJjNTRiLTE2Y2YtNDhjNy1iNWE3LTY0ZmFkNmI5OTdhZiJ9)**
 
