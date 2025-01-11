@@ -44,7 +44,7 @@ The **Tenant Retention Optimization Dashboard** delivers actionable insights to 
 3. **💬 Tenant Feedback Dataset**: Survey responses and open-ended comments.  
 4. **🏢 Property Information Dataset**: Property locations, types, amenities, and historical occupancy rates.
 
-[**Check Datasets Here**]()
+[**Check Datasets Here**](https://github.com/jimi121/POWER-BI-PROJECTS/tree/main/Tenant%20Retention%20Optimization/Datasets)
 
 ---
 
