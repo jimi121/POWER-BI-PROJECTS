@@ -65,7 +65,7 @@ This data allows Daiz Bank to **segment borrowers by risk**, analyze trends in l
 
 ## 📊 Dashboard Overview
 
-> **📸 Add Images and GIFs Here**: Use images and GIFs to provide an interactive view of the two primary dashboards.
+<!-- > **📸 Add Images and GIFs Here**: Use images and GIFs to provide an interactive view of the two primary dashboards. -->
 
 ### Loan Overview
 
