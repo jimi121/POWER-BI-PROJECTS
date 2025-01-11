@@ -60,7 +60,7 @@ The dataset includes 1,500 records on individual loans, featuring:
 
 This data allows Daiz Bank to **segment borrowers by risk**, analyze trends in loan performance, and fine-tune its lending strategies.
 
-[**Check dataset here**]()
+[**Check dataset here**](https://github.com/jimi121/POWER-BI-PROJECTS/blob/main/Loan%20Portfolio%20Risk%20Analysis/loan%20dataset.csv)
 ---
 
 ## 📊 Dashboard Overview
